@@ -4,7 +4,7 @@
 
 ## User Interface
 
-<img src ="images/screen.jpeg">
+<img  height = "500" src ="images/screen.jpeg">
 
 ## Installation
 
